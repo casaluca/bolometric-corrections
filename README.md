@@ -13,4 +13,4 @@ For our programs to work, the content of the unpacked .tar files must be in the 
 Comparison of our synthetic photometry with observations indicates that performances are overall good across optical and infrared bands (but please, refer to Section 4 of Casagrande & VandenBerg 2014 and 2018a for a discussion of successes
 and limitations).
 
-Please cite [Casagrande & VandenBerg (2014)](http://adsabs.harvard.edu/abs/2014MNRAS.444..392C) and/or [Casagrande & VandenBerg (2018a,](http://adsabs.harvard.edu/abs/2018MNRAS.475.5023C) [2018b)](https://arxiv.org/abs/1806.01953) if you find these packages useful for your research. 
+Please cite [Casagrande & VandenBerg (2014)](http://adsabs.harvard.edu/abs/2014MNRAS.444..392C) and/or [Casagrande & VandenBerg (2018a,](http://adsabs.harvard.edu/abs/2018MNRAS.475.5023C) [2018b)](http://adsabs.harvard.edu/abs/2018MNRAS.479L.102C) if you find these packages useful for your research. 
