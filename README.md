@@ -14,3 +14,5 @@ Comparison of our synthetic photometry with observations indicates that performa
 and limitations).
 
 Please cite [Casagrande & VandenBerg (2014)](http://adsabs.harvard.edu/abs/2014MNRAS.444..392C) and/or [Casagrande & VandenBerg (2018a,](http://adsabs.harvard.edu/abs/2018MNRAS.475.5023C) [2018b)](http://adsabs.harvard.edu/abs/2018MNRAS.479L.102C) if you find these packages useful for your research. 
+
+If you are looking for empirical colour-effective temperature relations in the Gaia DR2 and DR3 system, please check [here](https://github.com/casaluca/colte).
