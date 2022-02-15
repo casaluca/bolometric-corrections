@@ -12,7 +12,7 @@ The programs and tables below allow users to compute bolometric corrections, syn
 For our programs to work, the content of the unpacked .tar files must be in the same directory (i.e., the directories within BCtables and/or BCtables2 must be where files from BCcodes are located). For instructions and examples how to use the computer programs we provide, please **read** INSTRUCTIONS.txt located in BCcodes.tar.gz.
 Comparison of our synthetic photometry with observations indicates that performances are overall good across optical and infrared bands (but please, refer to Section 4 of Casagrande & VandenBerg 2014 and 2018a for a discussion of successes and limitations).
 
-``bcutil.py`` contains python functions to interpolate bolometric corrections for Gaia DR2, DR3 and 2MASS at desired input stellar parameters and reddening (with the possibility of changing R<sub>V</sub> in the adopted extinction law). To use ``bcutil.py`` please download and unpack ``grid.tar.gz`` in the same directory.  
+``bcutil.py`` contains python functions to interpolate bolometric corrections for Gaia DR2, DR3 and 2MASS at desired input stellar parameters and reddening (with the possibility of changing R<sub>V</sub> in the adopted extinction law). To use ``bcutil.py`` please download and unpack ``grid.tar.gz`` in the same directory (BCcodes, BCtables and BCtables2 are not needed to run bcutil.py).  
 
 | ![My image](https://github.com/casaluca/bolometric-corrections/blob/master/DBC.jpg)
 |:--:| 
